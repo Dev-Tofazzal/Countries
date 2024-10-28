@@ -4,6 +4,14 @@
     gap: 10px;
 }
 
+.flag_container{
+    width: 150px;
+
+}
+.flag_container img{
+    width: 100%;
+    
+}
 .visited{
     background-color:rgb(162, 162, 221) ;
 }
